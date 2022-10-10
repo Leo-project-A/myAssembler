@@ -4,8 +4,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Unique assembler for custom assembly language.
-Full "proof of concept", with all capabilities of assembler.
+Unique assembler for custom assembly language.  
+Full "proof of concept", with all capabilities of assembler.  
 < Final project in C lab course >
 
 <!-- USAGE EXAMPLES -->
